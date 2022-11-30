@@ -1,2 +1,3 @@
 # clockIn_gzhu
-auto clock in
+
+use GitHub Actions
